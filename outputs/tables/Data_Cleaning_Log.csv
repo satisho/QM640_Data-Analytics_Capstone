@@ -1,0 +1,5 @@
+Issue,Variables_Affected,Detection_Method,Treatment_Applied,Rationale
+Exact duplicate rows,All variables,DataFrame duplicated check,Removed 2 exact records,Prevent duplicated observations from influencing summaries and models
+Inconsistent categorical labels,"Application, team, complexity, AI usage",Unique-value inspection and case comparison,"Trimmed, case-normalised, and mapped to canonical labels","Avoid artificial categories caused by spelling, case, or abbreviation differences"
+Missing contextual counts,User story count; test case count,Missing-value profile,Median imputation,Retain observations without manufacturing effort outcomes
+Missing baseline or actual effort,Phase effort fields,Missing-value profile after reshaping,Excluded only from the affected phase-level outcome calculation,Imputing effort would manufacture the dependent variable

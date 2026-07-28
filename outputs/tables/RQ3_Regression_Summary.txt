@@ -1,0 +1,46 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           Productivity   R-squared:                       0.272
+Model:                            OLS   Adj. R-squared:                  0.267
+Method:                 Least Squares   F-statistic:                     59.15
+Date:                Mon, 27 Jul 2026   Prob (F-statistic):           3.06e-39
+Time:                        21:47:27   Log-Likelihood:                -11511.
+No. Observations:                2705   AIC:                         2.306e+04
+Df Residuals:                    2684   BIC:                         2.319e+04
+Df Model:                          20                                         
+Covariance Type:              cluster                                         
+==============================================================================================================
+                                                 coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------------
+Intercept                                  -1699.9765    879.609     -1.933      0.053   -3423.978      24.024
+C(Phase)[T.Defect Management]                 -4.6735      1.489     -3.139      0.002      -7.592      -1.755
+C(Phase)[T.Regression Testing]                 0.2008      1.190      0.169      0.866      -2.132       2.534
+C(Phase)[T.Test Design]                        3.0770      1.180      2.607      0.009       0.763       5.391
+C(Phase)[T.Test Execution]                    -6.2234      1.952     -3.189      0.001     -10.049      -2.398
+C(Phase)[T.Test Planning]                     -6.1442      1.959     -3.136      0.002      -9.984      -2.304
+C(Complexity)[T.Low]                          -0.9032      0.917     -0.984      0.325      -2.701       0.895
+C(Complexity)[T.Medium]                       -0.4348      0.703     -0.618      0.536      -1.813       0.943
+C(Application)[T.Billing & Payments]          -0.5873      1.106     -0.531      0.595      -2.755       1.580
+C(Application)[T.CRM Sales & Service]          1.0671      1.156      0.923      0.356      -1.198       3.332
+C(Application)[T.Customer Web Portal]          2.5625      1.239      2.068      0.039       0.133       4.992
+C(Application)[T.ERP Operations]              -0.9194      1.421     -0.647      0.518      -3.705       1.866
+C(Application)[T.Enterprise Data Platform]    -1.3240      1.387     -0.955      0.340      -4.042       1.394
+C(Application)[T.Legacy Service Platform]     -0.2558      1.682     -0.152      0.879      -3.552       3.040
+C(Application)[T.Mobile Service App]           1.1675      1.231      0.949      0.343      -1.245       3.580
+AI_Flag                                       16.6860      1.244     13.409      0.000      14.247      19.125
+Baseline                                      -0.0750      0.054     -1.379      0.168      -0.182       0.032
+User_Stories                                   0.1102      0.089      1.242      0.214      -0.064       0.284
+Test_Cases                                     0.0499      0.018      2.736      0.006       0.014       0.086
+Year                                           0.8377      0.435      1.927      0.054      -0.014       1.690
+Sprint_Number                                  0.0601      0.068      0.889      0.374      -0.072       0.193
+==============================================================================
+Omnibus:                     1218.709   Durbin-Watson:                   2.080
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             7822.219
+Skew:                          -2.039   Prob(JB):                         0.00
+Kurtosis:                      10.264   Cond. No.                     4.65e+06
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The condition number is large, 4.65e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.

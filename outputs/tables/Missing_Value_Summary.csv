@@ -1,0 +1,25 @@
+Variable,Missing_Count,Missing_Percent
+User story count,6,1.3071895424836601
+Actual effort (Automation Development),5,1.0893246187363834
+Actual effort (Regression Testing),5,1.0893246187363834
+Actual effort (Test Design),4,0.8714596949891068
+Baseline effort (Automation Development),4,0.8714596949891068
+Baseline effort (Regression Testing),3,0.6535947712418301
+Baseline effort (Test Execution),3,0.6535947712418301
+Baseline effort (Test Planning),3,0.6535947712418301
+test case count,3,0.6535947712418301
+Actual effort (Defect Management),2,0.4357298474945534
+Actual effort (Test Execution),2,0.4357298474945534
+Actual effort (Test Planning),2,0.4357298474945534
+Baseline effort (Defect Management),2,0.4357298474945534
+Baseline effort (Test Design),2,0.4357298474945534
+AI Usage Testing Phase (Automation Development),0,0.0
+AI Usage Testing Phase (Defect Management),0,0.0
+AI Usage Testing Phase (Regression Testing),0,0.0
+AI Usage Testing Phase (Test Design),0,0.0
+AI Usage Testing Phase (Test Execution),0,0.0
+AI Usage Testing Phase (Test Planning),0,0.0
+Application_Name,0,0.0
+Complexity,0,0.0
+Sprint #,0,0.0
+Team_Name,0,0.0

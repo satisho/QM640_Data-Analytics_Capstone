@@ -1,0 +1,38 @@
+Category,File
+Processed data,data\processed\EQEPD_Cleaned_Project_Level.csv
+Processed data,data\processed\EQEPD_Engineered_Phase_Level.csv
+Figure,outputs\figures\Appendix_Figure_A1_Productivity_Distribution.png
+Figure,outputs\figures\Appendix_Figure_A2_Spearman_Correlation_Matrix.png
+Figure,outputs\figures\Appendix_Figure_A3_Actual_vs_Predicted_Productivity.png
+Figure,outputs\figures\Appendix_Figure_A4_Residual_Distribution.png
+Figure,outputs\figures\Appendix_Figure_A5_Permutation_Feature_Importance.png
+Figure,outputs\figures\Appendix_Figure_A6_Total_Effort_Saved_by_Phase.png
+Figure,outputs\figures\Figure_03_EQEPD_Dataset_Preview.png
+Figure,outputs\figures\Figure_04_Missing_Values_by_Variable.png
+Figure,outputs\figures\Figure_05_AI_Adoption_Rate_Across_Years.png
+Figure,outputs\figures\Figure_06_AI_Adoption_Rate_by_QE_Phase.png
+Figure,outputs\figures\Figure_07_AI_Assisted_vs_Traditional_Productivity.png
+Figure,outputs\figures\Figure_08_AI_Assisted_Productivity_by_Phase.png
+Figure,outputs\figures\Figure_09_AI_Adoption_Breadth_vs_Overall_Productivity.png
+Figure,outputs\figures\Figure_10_Grouped_Holdout_Model_Comparison.png
+Table or result,outputs\tables\AI_Adoption_by_Phase.csv
+Table or result,outputs\tables\AI_Adoption_by_Year.csv
+Table or result,outputs\tables\AI_Breadth_Productivity_Summary.csv
+Table or result,outputs\tables\AI_Productivity_by_Phase.csv
+Table or result,outputs\tables\AI_vs_Traditional_Productivity_Summary.csv
+Table or result,outputs\tables\Analytical_Dataset_Inventory.csv
+Table or result,outputs\tables\Data_Cleaning_Log.csv
+Table or result,outputs\tables\Dataset_Profile.csv
+Table or result,outputs\tables\Grouped_Cross_Validation.csv
+Table or result,outputs\tables\Missing_Value_Summary.csv
+Table or result,outputs\tables\Model_Split_Summary.csv
+Table or result,outputs\tables\Output_Manifest.csv
+Table or result,outputs\tables\Permutation_Feature_Importance.csv
+Table or result,outputs\tables\Phase_Level_Numeric_Summary.csv
+Table or result,outputs\tables\Preliminary_Model_Comparison.csv
+Table or result,outputs\tables\RQ1_Preliminary_Results.csv
+Table or result,outputs\tables\RQ2_Overall_Test.csv
+Table or result,outputs\tables\RQ2_Phase_PostHoc_Results.csv
+Table or result,outputs\tables\RQ3_Regression_Coefficients.csv
+Table or result,outputs\tables\RQ3_Regression_Summary.txt
+Table or result,outputs\tables\Spearman_Correlation_Matrix.csv

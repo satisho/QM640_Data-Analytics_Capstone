@@ -1,0 +1,56 @@
+└── .gitignore
+└── README.md
+└── data/
+    └── processed/
+        └── EQEPD_Cleaned_Project_Level.csv
+        └── EQEPD_Engineered_Phase_Level.csv
+    └── raw/
+        └── EQEPD_Dataset_v5.xlsx
+└── notebooks/
+    └── QM640_EQEPD_Interim_Analysis.html
+    └── QM640_EQEPD_Interim_Analysis.ipynb
+└── outputs/
+    └── figures/
+        └── Appendix_Figure_A1_Productivity_Distribution.png
+        └── Appendix_Figure_A2_Spearman_Correlation_Matrix.png
+        └── Appendix_Figure_A3_Actual_vs_Predicted_Productivity.png
+        └── Appendix_Figure_A4_Residual_Distribution.png
+        └── Appendix_Figure_A5_Permutation_Feature_Importance.png
+        └── Appendix_Figure_A6_Total_Effort_Saved_by_Phase.png
+        └── Figure_03_EQEPD_Dataset_Preview.png
+        └── Figure_04_Missing_Values_by_Variable.png
+        └── Figure_05_AI_Adoption_Rate_Across_Years.png
+        └── Figure_06_AI_Adoption_Rate_by_QE_Phase.png
+        └── Figure_07_AI_Assisted_vs_Traditional_Productivity.png
+        └── Figure_08_AI_Assisted_Productivity_by_Phase.png
+        └── Figure_09_AI_Adoption_Breadth_vs_Overall_Productivity.png
+        └── Figure_10_Grouped_Holdout_Model_Comparison.png
+    └── tables/
+        └── AI_Adoption_by_Phase.csv
+        └── AI_Adoption_by_Year.csv
+        └── AI_Breadth_Productivity_Summary.csv
+        └── AI_Productivity_by_Phase.csv
+        └── AI_vs_Traditional_Productivity_Summary.csv
+        └── Analytical_Dataset_Inventory.csv
+        └── Data_Cleaning_Log.csv
+        └── Dataset_Profile.csv
+        └── Grouped_Cross_Validation.csv
+        └── Missing_Value_Summary.csv
+        └── Model_Split_Summary.csv
+        └── Output_Manifest.csv
+        └── Permutation_Feature_Importance.csv
+        └── Phase_Level_Numeric_Summary.csv
+        └── Preliminary_Model_Comparison.csv
+        └── RQ1_Preliminary_Results.csv
+        └── RQ2_Overall_Test.csv
+        └── RQ2_Phase_PostHoc_Results.csv
+        └── RQ3_Regression_Coefficients.csv
+        └── RQ3_Regression_Summary.txt
+        └── Spearman_Correlation_Matrix.csv
+└── reports/
+    └── Interim_Report_Figure_Guide.md
+    └── QM640_EQEPD_Interim_Report_Satish_Venugopal.docx
+└── requirements.txt
+└── scripts/
+    └── run_notebook.bat
+    └── run_notebook.sh
