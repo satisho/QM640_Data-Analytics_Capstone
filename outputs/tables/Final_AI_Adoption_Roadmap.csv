@@ -1,0 +1,7 @@
+QE_Phase,Tier,Mean_Productivity_Improvement_Pct,Total_Effort_Saved_Hours,Recommended_Action
+Regression Testing,Scale now,22.228096376689223,896.6056,"Standardise proven use cases, expand coverage, and monitor quality guardrails."
+Test Design,Scale now,19.916581433152,1857.5801,"Standardise proven use cases, expand coverage, and monitor quality guardrails."
+Automation Development,Scale now,16.623591863158136,1420.1831,"Standardise proven use cases, expand coverage, and monitor quality guardrails."
+Defect Management,Controlled expansion,10.272001723994451,184.3923,Expand selectively with human validation and phase-specific acceptance criteria.
+Test Planning,Targeted pilot,6.4557134651455685,46.154700000000005,Keep as targeted pilots until stronger productivity and quality evidence is collected.
+Test Execution,Targeted pilot,3.9258109578635274,12.714399999999998,Keep as targeted pilots until stronger productivity and quality evidence is collected.

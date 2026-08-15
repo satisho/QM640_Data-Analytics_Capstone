@@ -2,10 +2,10 @@ Measure,Result
 AI mean productivity improvement (%),16.95337623084814
 Traditional mean productivity improvement (%),-4.62889796274727
 Difference in means (percentage points),21.58227419359541
-Levene p-value,1.7495870437632182e-06
+Levene p-value,1.7495870437648818e-06
 Welch t-test statistic,27.48051698594132
-Welch t-test p-value,2.8764401005778025e-137
+Welch t-test p-value,2.8764401005774188e-137
 Mann-Whitney U statistic,1392443.0
 Mann-Whitney p-value,2.4351219033504643e-199
-Cohen's d,1.1592069103621716
+Cohen's d,1.1592069103621707
 Rank-biserial correlation,0.7086301317754407

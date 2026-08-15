@@ -3,8 +3,8 @@
 Dep. Variable:           Productivity   R-squared:                       0.272
 Model:                            OLS   Adj. R-squared:                  0.267
 Method:                 Least Squares   F-statistic:                     59.15
-Date:                Mon, 27 Jul 2026   Prob (F-statistic):           3.06e-39
-Time:                        21:47:27   Log-Likelihood:                -11511.
+Date:                Thu, 13 Aug 2026   Prob (F-statistic):           3.06e-39
+Time:                        12:52:35   Log-Likelihood:                -11511.
 No. Observations:                2705   AIC:                         2.306e+04
 Df Residuals:                    2684   BIC:                         2.319e+04
 Df Model:                          20                                         

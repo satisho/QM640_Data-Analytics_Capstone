@@ -1,0 +1,3 @@
+Sensitivity,N,Kruskal_Wallis_H,p_value,Epsilon_Squared
+Primary - all AI-assisted valid observations,906,92.72080085222225,1.800913581110106e-18,0.09746755650246917
+AI-assisted observations with baseline >=5 hours,906,92.72080085222225,1.800913581110106e-18,0.09746755650246917
